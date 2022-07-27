@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tamimtamzid
 - 👀 I’m interested in Programing.
-- 🌱 I’m currently learning C programing
+- 🌱 I've learned C programing and currently learning Java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Mail me if you want to contact me.  Email:  contact@tamimtamzidutso.com
 
